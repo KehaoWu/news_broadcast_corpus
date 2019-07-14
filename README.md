@@ -1,0 +1,2 @@
+# news_broadcast_corpus
+2016年至2019年6月的新闻联播语料
